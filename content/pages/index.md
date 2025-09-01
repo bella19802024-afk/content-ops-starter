@@ -12,7 +12,7 @@ sections:
       darkness.
     text: "This book was born from deep experiences, from the connection with the Divine, and from the certainty that love always triumphs over fear. It is not only my story: it is a beacon for those who wish to heal, awaken, and walk toward their true essence.\n\n\U0001F512 *Due to privacy policies, this book is not available in the United Arab Emirates. It is available in the United States, Europe, and selected countries in Asia.*\n\n\n\n"
     actions:
-      - label: Get started
+      - label: Read the Book
         altText: ''
         url: /
         showIcon: false
