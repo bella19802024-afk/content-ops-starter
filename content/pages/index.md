@@ -7,7 +7,9 @@ sections:
       text: 'Discover my first book: a journey of visions, healing, and divine love'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      A message for souls seeking clarity, purpose, and light in the midst of
+      darkness.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
