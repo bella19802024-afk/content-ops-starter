@@ -50,7 +50,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Every week one new book
+  - subtitle: One new book every week!
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
