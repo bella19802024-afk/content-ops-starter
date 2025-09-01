@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "BAbout The Author",
+            "label": "About The Author",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
