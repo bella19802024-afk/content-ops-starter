@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Discover my first book: a journey of visions, healing, and divine love'
+      text: 'Light Letters! journey of visions, healing, and divine love'
       color: text-dark
       type: TitleBlock
     subtitle: >-
