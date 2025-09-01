@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Open in flipbook
         altText: ''
         url: /
         showIcon: true
