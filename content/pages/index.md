@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/banner home blessed.png
+      url: /images/Copia de A Novel by INFINITY PYAAR (Sitio web) (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
