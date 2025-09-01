@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Open in flipbook
         altText: ''
-        url: /
+        url: '/https://publuu.com/flip-book/link/9707264'
         showIcon: true
         icon: arrowRight
         iconPosition: right
