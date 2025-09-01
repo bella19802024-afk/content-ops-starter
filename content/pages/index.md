@@ -10,10 +10,7 @@ sections:
     subtitle: >-
       A message for souls seeking clarity, purpose, and light in the midst of
       darkness.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "This book was born from deep experiences, from the connection with the Divine, and from the certainty that love always triumphs over fear. It is not only my story: it is a beacon for those who wish to heal, awaken, and walk toward their true essence.\n\n\U0001F512 *Due to privacy policies, this book is not available in the United Arab Emirates. It is available in the United States, Europe, and selected countries in Asia.*\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
