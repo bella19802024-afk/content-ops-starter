@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Light Letters! journey of visions, healing, and divine love'
+      text: 'Light Letters! A journey of visions, healing, and divine love'
       color: text-dark
       type: TitleBlock
     subtitle: >-
