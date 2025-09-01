@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Read the Book
         altText: ''
-        url: /publuu.com/flip-book/link/9707264
+        url: 'https://publuu.com/flip-book/958249/2104273/page/0?dlid=9707264'
         showIcon: false
         icon: arrowRight
         iconPosition: right
