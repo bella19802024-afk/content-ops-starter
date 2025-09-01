@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Open in flipbook
         altText: ''
-        url: 'https://publuu.com/flip-book/958249/2104273/page/0?dlid=9707264'
+        url: /publuu.com/flip-book/958249/2104273/page/0?dlid=9707264
         showIcon: true
         icon: arrowRight
         iconPosition: right
