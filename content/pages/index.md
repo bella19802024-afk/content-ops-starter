@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Read the Book
         altText: ''
-        url: /
+        url: /publuu.com/flip-book/link/9707264
         showIcon: false
         icon: arrowRight
         iconPosition: right
